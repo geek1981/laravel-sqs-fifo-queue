@@ -1,8 +1,8 @@
 {
-    "name": "shiftonelabs/laravel-sqs-fifo-queue",
+    "name": "geek1981/laravel-sqs-fifo-queue",
     "description": "Adds a Laravel queue driver for Amazon SQS FIFO queues.",
     "keywords": ["laravel", "lumen", "illuminate", "queue", "sqs", "fifo", "aws"],
-    "homepage": "https://github.com/shiftonelabs/laravel-sqs-fifo-queue",
+    "homepage": "https://github.com/geek1981/laravel-sqs-fifo-queue",
     "license": "MIT",
     "authors": [
         {
@@ -11,8 +11,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/shiftonelabs/laravel-sqs-fifo-queue/issues",
-        "source": "https://github.com/shiftonelabs/laravel-sqs-fifo-queue"
+        "issues": "https://github.com/geek1981/laravel-sqs-fifo-queue/issues",
+        "source": "https://github.com/geek1981/laravel-sqs-fifo-queue"
     },
     "require": {
         "php": ">=5.5.0",
